@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Shourya Gupta 👋
+- 🎓 B.Tech CSE (Semester 1, 2026–2030) at **Lovely Professional University**
+- 💻 Currently learning **Python**, **HTML5/CSS3**, and **Git/GitHub**
+- 🏆 Participant in **PROMPT-A-THON** (AWS Student Builder Group LPU)
+- 🎯 Aspiring **Software Development Engineer**
 
 <!--
 **shourya2gupta/shourya2gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
